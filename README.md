@@ -47,8 +47,12 @@
 </p>
 
 ### 🎓 Education
-* [Yandex.Lyceum](https://yandexlyceum.ru) (2019 - 2021)
-* [HSE CS AMI](https://www.hse.ru/ba/ami/) (2022 - 2026)
+* [ILS](https://mlsh.ru/) (2018 - 2025)
+* [Yandex.Lyceum](https://yandexlyceum.ru) (2021 - 2023)
+* [Deep Learning School](https://dls.samcs.ru/) (2023-2024)
+* [Yandex algoritmic programming](https://algocode.ru/)(2023-2025)
+* [IOAI preparation](https://centraluniversity.ru/)(2024-2025)
+
 
 ### 🏆 Competition Background
 * 🥇1 place [AI Challenge](https://aiijc.com/ru/) "Development" 2024
