@@ -9,10 +9,6 @@
     <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="android" width="40" height="40"/>
   </a>
   
-  <a href="https://keras.io" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="android" width="40" height="40"/>
-  </a>
-  
   <a href="https://www.tensorflow.org" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="android" width="40" height="40"/>
   </a>
@@ -55,6 +51,7 @@
 
 
 ### 🏆 Competition Background
+* 🥇5 place [IOAI 2025](https://ioai-official.org/)
 * 🥇1 place [AI Challenge](https://aiijc.com/ru/) "Development" 2024
 * 🥇Winner [NTO BD&ML 2023-2024](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/)
 * 🥇Absolute Winner 1/1023 [Projects accelerator alabuga 'Vibirai' forum 2024](https://nkocenter.ru/news/view/luchshie-proekty-foruma-vybiray-poluchat-do-300-tys-rubley-na-realizaciyu)
