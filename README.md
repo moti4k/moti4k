@@ -9,8 +9,8 @@
     <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="android" width="40" height="40"/>
   </a>
   
-  <a href="https://www.tensorflow.org" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="android" width="40" height="40"/>
+  <a href="https://catboost.ai/" target="_blank"> 
+    <img src="//avatars.mds.yandex.net/get-bunker/50064/4d11a0d23580938980ea4ba1528affb6e3095f81/svg" alt="android" width="40" height="40"/>
   </a>
   
   <a href="https://huggingface.co" target="_blank"> 
@@ -48,6 +48,7 @@
 * [Deep Learning School](https://dls.samcs.ru/) (2023-2024)
 * [Yandex algoritmic programming](https://algocode.ru/)(2023-2025)
 * [IOAI preparation](https://centraluniversity.ru/)(2024-2025)
+* [MIPT FPMI I course](https://mipt.ru/en)(2025-now)
 
 
 ### 🏆 Competition Background
