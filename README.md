@@ -10,7 +10,7 @@
   </a>
   
   <a href="https://catboost.ai/" target="_blank"> 
-    <img src="//avatars.mds.yandex.net/get-bunker/50064/4d11a0d23580938980ea4ba1528affb6e3095f81/svg" alt="android" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" alt="android" width="40" height="40"/>
   </a>
   
   <a href="https://huggingface.co" target="_blank"> 
