@@ -1,13 +1,5 @@
 ## Hi there 👋
 
-### Available for paid engineering work
-
-AI-assisted software delivery is available through this account for **200 USDC per month**. The package covers one active, acceptance-tested delivery stream at a time: product implementation, API and payment integrations, bug fixes, automated tests, documentation, and a reviewable pull request or deployment artifact.
-
-Recent shipped work: [ChainBill](https://chainbill.fairy-cow-6895.chatgpt.site/), a browser-local invoice builder with Base USDC and TRC20 USDT payment verification. See its [public product page and commercial scope](https://github.com/moti4k/chainbill).
-
-[Open a commercial inquiry](https://github.com/moti4k/chainbill/issues/new?template=commercial-inquiry.yml) or contact me on [Telegram](https://t.me/moti4kaa). No private keys, seed phrases, wallet custody, or advance infrastructure spend are requested. AI involvement is disclosed on all external contributions.
-
 ### ⚙️ Tech stack
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
