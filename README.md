@@ -1,79 +1,44 @@
-## Hi there 👋
+# Matvei Beliaev
 
-### ⚙️ Tech stack
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="android" width="35" height="35"/>
-  </a>
-  
-  <a href="https://pytorch.org" target="_blank"> 
-    <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="android" width="40" height="40"/>
-  </a>
-  
-  <a href="https://catboost.ai/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" alt="android" width="40" height="40"/>
-  </a>
-  
-  <a href="https://huggingface.co" target="_blank"> 
-    <img src="https://uptime-storage.s3.amazonaws.com/logos/d32f5c39b694f3e64d29fc2c9b988cdd.png" alt="android" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.djangoproject.com" target="_blank"> 
-      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="android" width="40" height="40"/>
-  </a>
+**AI / ML Engineer · IOAI 2025 Gold Medalist · MIPT**
 
-  <a href="https://www.sqlite.org/index.html" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" alt="android" width="40" height="40"/>
-  </a>
+I build ML systems from the first experiment through deployment. My work spans retrieval and agents, speech and video generation, classical ML, and computer vision. I have worked on paid ML projects since 2022 and led a small engineering team through architecture, code review and delivery.
 
-  <a href="https://www.sqlite.org/index.html" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="android" width="40" height="40"/>
-  </a>
-  
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="android" width="40" height="40"/>
-  </a>
-  
-  <a href="https://ru.wikipedia.org/wiki/Bash" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="android" width="40" height="40"/>
-  </a>
-  
-  <a href="https://git-scm.com/doc" target="_blank"> 
-    <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="android" width="40" height="40"/>
-  </a>
-</p>
+## What I work on
 
-### 🎓 Education
-* [ILS](https://mlsh.ru/) (2018 - 2025)
-* [Yandex.Lyceum](https://yandexlyceum.ru) (2021 - 2023)
-* [Deep Learning School](https://dls.samcs.ru/) (2023-2024)
-* [Yandex algoritmic programming](https://algocode.ru/)(2023-2025)
-* [IOAI preparation](https://centraluniversity.ru/)(2024-2025)
-* [MIPT FPMI I course](https://mipt.ru/en)(2025-now)
+- **AI products and agents** — local BGE + DeepSeek systems, LoRA adaptation, multimodal order processing and 1C integration. At Acta, I developed enterprise agents and voice assistants and led four developers.
+- **Recommendation systems** — building Gired, a job and opportunity recommender grounded in a person's projects and experience. My work includes hybrid retrieval, manually labelled relevance examples, few-shot matching and dynamic updates to recommendations.
+- **Generative models and speech** — Flux and LTX LoRA work at XLabs, plus speech-model adaptation and Whisper inference optimisation.
+- **Classical ML and quantitative research** — contractor default risk, property valuation and alpha research. I work with feature engineering, gradient boosting, model comparison and evaluation design.
+- **Vision and physical systems** — satellite-derived bathymetry, metric learning for animal identification, and YOLO-based 3D-print failure detection on Raspberry Pi with Klipper integration.
 
+## Selected public work
 
-### 🏆 Competition Background
-* 🥇5 place [IOAI 2025](https://ioai-official.org/)
-* 🥇1 place [AI Challenge](https://aiijc.com/ru/) "Development" 2024
-* 🥇Winner [NTO BD&ML 2023-2024](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/)
-* 🥇Absolute Winner 1/1023 [Projects accelerator alabuga 'Vibirai' forum 2024](https://nkocenter.ru/news/view/luchshie-proekty-foruma-vybiray-poluchat-do-300-tys-rubley-na-realizaciyu)
-* 🥈Prizewinner [Leaders of Digital in Spb 2024 ](https://hacks-ai.ru/)
-* 🥇Winner [NTO BD&ML 2024-2025](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/bolshie-dannye-i-mashinnoe-obuchenie/)
+| Project | Problem and approach | Explore |
+| --- | --- | --- |
+| **AI Challenge 2024 · 1st place in the Development track** | Six-month contractor default prediction. Feature engineering, CatBoost / Random Forest ensembles, grouped validation and SHAP explanations. Team project with Artyom Goncharov. | [Code and technical write-up](https://github.com/moti4k/aiijc_2024_samolet_scoring) |
+| **Business support Q&A** | Digital Breakthrough 2024 team project for the Tinkoff Business challenge. Local Llama inference, knowledge-base matching, FastAPI and a Telegram interface. | [Training and serving code](https://github.com/moti4k/TINKOFF_LLM_CP2024) |
+| **Support-operator assistant** | Team RAG project using BGE embeddings, FAISS and vLLM, with document retrieval, an API and a Streamlit interface. | [Implementation and demo](https://github.com/moti4k/The-Illusion-Of-Security) |
+| **NTO recommendation system** | Implicit-feedback video recommendations using RecTools and BM25 item-to-item similarity. Competition notebooks and data preparation. | [Notebook](https://github.com/moti4k/BDIMO_2024) |
 
+## Competitions and research
 
-### Hobbies
-* 🏄‍♂️ Surfing
-* 🏐 Volleyball
-* 🎿 Skiing
-* 🚴 Mountain biking
+- **International Olympiad in Artificial Intelligence, 2025 — Gold medal.** [IOAI](https://ioai-official.org/)
+- **AI Challenge, 2024 — 1st place in the Development track.** [Team solution](https://github.com/moti4k/aiijc_2024_samolet_scoring)
+- **National Technology Olympiad — winner in 2024 and 2025.**
+- **NEOAI 2026 — task ideas and baselines for the main competition.**
+- **Satellite bathymetry** — research on depth-map prediction using U-Net with Swin and residual blocks, multiscale supervision and bottom-type-conditioned normalisation. The project received development grant support at the Vybirai forum in 2024.
 
-### Contacts
-<p align="left"> 
-  <a href="https://t.me/moti4kaa" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="android" width="30" height="30"/> 
-  </a>
-  <a href="https://www.instagram.com/moti4k/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" alt="android" width="30" height="30"/> 
-  </a>
-  
-</p>
+## Tools
+
+Python · PyTorch · CatBoost · scikit-learn · Hugging Face · BGE · FAISS · vLLM · llama.cpp · FastAPI · PostgreSQL · Docker · Linux · CI/CD · Git · C / C++ · Bash
+
+## Education and interests
+
+I study Applied Mathematics and Computer Science at **MIPT** (2025–present). Earlier training includes Yandex Lyceum, Deep Learning School and IOAI team preparation.
+
+Outside ML, I enjoy robotics and 3D printing, alpine skiing, taekwondo, music and visual art.
+
+## Contact
+
+For AI engineering, applied research and technical leadership opportunities, email **[mbeliaev2007@gmail.com](mailto:mbeliaev2007@gmail.com)**.
