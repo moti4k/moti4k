@@ -7,6 +7,7 @@ I build ML systems from the first experiment through deployment. My work spans r
 ## What I work on
 
 - **AI products and agents** — local BGE + DeepSeek systems, LoRA adaptation, multimodal order processing and 1C integration. At Acta, I developed enterprise agents and voice assistants and led four developers.
+- **Legal document intelligence** — built an on-premises client system with DeepSeek OCR, structured extraction and retrieval, document review and suggested amendments, and tables of the parties’ obligations. The system is in production.
 - **Recommendation systems** — building Gired, a job and opportunity recommender grounded in a person's projects and experience. My work includes hybrid retrieval, manually labelled relevance examples, few-shot matching and dynamic updates to recommendations.
 - **Generative models and speech** — Flux and LTX LoRA work at XLabs, plus speech-model adaptation and Whisper inference optimisation.
 - **Classical ML and quantitative research** — contractor default risk, property valuation and alpha research. I work with feature engineering, gradient boosting, model comparison and evaluation design.
