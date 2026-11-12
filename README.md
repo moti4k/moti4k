@@ -6,7 +6,7 @@ I build ML systems from the first experiment through deployment. My work spans r
 
 ## What I work on
 
-- **AI products and agents** — local BGE + DeepSeek systems, LoRA adaptation, multimodal order processing and 1C integration. At Acta, I developed enterprise agents and voice assistants and led four developers.
+- **AI products and agents** — local BGE + DeepSeek systems, LoRA adaptation, multimodal order processing and 1C integration. At Acta, I developed enterprise agents and voice assistants and led four developers, Security (PyRIT/garak).
 - **Legal document intelligence** — built an on-premises client system with DeepSeek OCR, structured extraction and retrieval, document review and suggested amendments, and tables of the parties’ obligations. The system is in production.
 - **Recommendation systems** — building Gired, a job and opportunity recommender grounded in a person's projects and experience. My work includes hybrid retrieval, manually labelled relevance examples, few-shot matching and dynamic updates to recommendations.
 - **Generative models and speech** — Flux and LTX LoRA work at XLabs, plus speech-model adaptation and Whisper inference optimisation.
@@ -32,7 +32,7 @@ I build ML systems from the first experiment through deployment. My work spans r
 
 ## Tools
 
-Python · PyTorch · CatBoost · scikit-learn · Hugging Face · BGE · FAISS · vLLM · llama.cpp · FastAPI · PostgreSQL · Docker · Linux · CI/CD · Git · C / C++ · Bash
+Python · PyTorch · CatBoost · scikit-learn · Hugging Face · BGE · FAISS · vLLM · llama.cpp · FastAPI · PostgreSQL · Docker · Linux · CI/CD · Git · C / C++ · Security (PyRIT/garak) · Bash
 
 ## Education and interests
 
