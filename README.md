@@ -1,45 +1,52 @@
 # Matvei Beliaev
 
-**AI / ML Engineer · IOAI 2025 Gold Medalist · MIPT**
+**AI/ML Engineer — applied ML, agents and multimodal systems.**
 
-I build ML systems from the first experiment through deployment. My work spans retrieval and agents, speech and video generation, classical ML, and computer vision. I have worked on paid ML projects since 2022 and led a small engineering team through architecture, code review and delivery.
+**[International Olympiad in Artificial Intelligence, 2025: Gold Medal · 5th worldwide individually](https://ioai-official.org/china-2025/results-2025/)**
 
-## What I work on
+I build AI systems from model experiments through deployment. My commercial ML work started in 2022; since then I have delivered on-premises client systems, worked on generative models at XLabs and led four developers at Acta.
 
-- **AI products and agents** — local BGE + DeepSeek systems, LoRA adaptation, multimodal order processing and 1C integration. At Acta, I developed enterprise agents and voice assistants and led four developers, Security (PyRIT/garak).
-- **Legal document intelligence** — built an on-premises client system with DeepSeek OCR, structured extraction and retrieval, document review and suggested amendments, and tables of the parties’ obligations. The system is in production.
-- **Recommendation systems** — building Gired, a job and opportunity recommender grounded in a person's projects and experience. My work includes hybrid retrieval, manually labelled relevance examples, few-shot matching and dynamic updates to recommendations.
-- **Generative models and speech** — Flux and LTX LoRA work at XLabs, plus speech-model adaptation and Whisper inference optimisation.
-- **Classical ML and quantitative research** — contractor default risk, property valuation and alpha research. I work with feature engineering, gradient boosting, model comparison and evaluation design.
-- **Vision and physical systems** — satellite-derived bathymetry, metric learning for animal identification, and YOLO-based 3D-print failure detection on Raspberry Pi with Klipper integration.
+## Selected engineering work
 
-## Selected public work
-
-| Project | Problem and approach | Explore |
+| System | My work | Read more |
 | --- | --- | --- |
-| **AI Challenge 2024 · 1st place in the Development track** | Six-month contractor default prediction. Feature engineering, CatBoost / Random Forest ensembles, grouped validation and SHAP explanations. Team project with Artyom Goncharov. | [Code and technical write-up](https://github.com/moti4k/aiijc_2024_samolet_scoring) |
-| **Business support Q&A** | Digital Breakthrough 2024 team project for the Tinkoff Business challenge. Local Llama inference, knowledge-base matching, FastAPI and a Telegram interface. | [Training and serving code](https://github.com/moti4k/TINKOFF_LLM_CP2024) |
-| **Support-operator assistant** | Team RAG project using BGE embeddings, FAISS and vLLM, with document retrieval, an API and a Streamlit interface. | [Implementation and demo](https://github.com/moti4k/The-Illusion-Of-Security) |
-| **NTO recommendation system** | Implicit-feedback video recommendations using RecTools and BM25 item-to-item similarity. Competition notebooks and data preparation. | [Notebook](https://github.com/moti4k/BDIMO_2024) |
+| **Multimodal order automation** | Independently built an on-premises system processing approximately **10,000 orders/day**: BGE retrieval, DeepSeek LoRA and integration with 1C. | [Case study](work/order-automation.md) |
+| **Enterprise agents at Acta** | Led four developers; architecture, technical interviews, code review and delivery. Worked on tool-use controls and adversarial tests with **PyRIT and garak in CI/CD**. | [Agent systems and evaluation](work/enterprise-agents.md) |
+| **Legal document intelligence** | Delivered OCR, structured extraction, retrieval, document review and obligation tables in an on-premises client deployment. | [Document workflow](work/legal-document-intelligence.md) |
+| **Generative media and speech** | Flux and LTX LoRA at XLabs; separate work on voice assistants, Whisper optimisation and a Flux/WAN application. | [Models and deployment](work/generative-models.md) |
+| **Gired** | Building recommendations grounded in a person's projects and experience: hybrid retrieval, evidence matching, manually labelled examples and few-shot cold start. | [Retrieval and recommendations](work/gired.md) |
+| **Property valuation and risk modelling** | Commercial tabular ML at QLAN, plus a first-place AI Challenge team solution for contractor default prediction. Feature engineering, model comparison and evaluation. | [Classical ML](work/classical-ml.md) |
+| **Satellite-derived bathymetry** | Depth-map prediction with a U-Net, Swin and residual blocks; multiscale supervision and evaluation on held-out water bodies. | [Geospatial ML](work/geospatial-ml.md) |
+
+The case studies cover client systems and ongoing projects; public implementations are linked below.
+
+## Public implementations
+
+| Repository | Problem and implementation |
+| --- | --- |
+| **[Contractor default-risk modelling](https://github.com/moti4k/aiijc_2024_samolet_scoring)** | **AI Challenge 2024, Development track — 1st-place team solution.** Feature engineering, CatBoost/Random Forest ensembles, grouped validation and SHAP explanations. |
+| **[Business-support Q&A](https://github.com/moti4k/TINKOFF_LLM_CP2024)** | Local Llama serving, knowledge-base matching, source links, FastAPI and Telegram. Digital Breakthrough 2024 team project. |
+| **[Retrieval assistant for support operators](https://github.com/moti4k/The-Illusion-Of-Security)** | BGE, FAISS and vLLM with an operator interface, API and Telegram integration. Team implementation. |
+| **[Satellite image segmentation](https://github.com/moti4k/segmentation-TPSH)** | PyTorch U-Net experiments, Dice/BCE losses, image augmentation and a Flask interface. |
+| **[Implicit-feedback recommendations](https://github.com/moti4k/BDIMO_2024)** | RecTools and BM25 item-to-item recommendations. NTO 2023–2024 team experiments and data preparation. |
 
 ## Competitions and research
 
-- **International Olympiad in Artificial Intelligence, 2025 — Gold medal.** [IOAI](https://ioai-official.org/)
-- **AI Challenge, 2024 — 1st place in the Development track.** [Team solution](https://github.com/moti4k/aiijc_2024_samolet_scoring)
-- **National Technology Olympiad — winner in 2024 and 2025.**
-- **NEOAI 2026 — task ideas and baselines for the main competition.**
-- **Satellite bathymetry** — research on depth-map prediction using U-Net with Swin and residual blocks, multiscale supervision and bottom-type-conditioned normalisation. The project received development grant support at the Vybirai forum in 2024.
+- **IOAI 2025:** gold medal and fifth place in the individual competition — [official results](https://ioai-official.org/china-2025/results-2025/).
+- **AI Challenge 2024:** first place in the Development track, with Artyom Goncharov — [team solution](https://github.com/moti4k/aiijc_2024_samolet_scoring).
+- **National Technology Olympiad:** winner in 2024 and 2025.
+- **NEOAI 2026:** developed ideas and baselines for six main-competition tasks.
+- **Bathymetry research:** development grant support at the Vybirai forum in 2024.
 
-## Tools
+## Technical focus
 
-Python · PyTorch · CatBoost · scikit-learn · Hugging Face · BGE · FAISS · vLLM · llama.cpp · FastAPI · PostgreSQL · Docker · Linux · CI/CD · Git · C / C++ · Security (PyRIT/garak) · Bash
+**Modelling:** PyTorch, Transformers, CatBoost, scikit-learn, LoRA, computer vision and metric learning.  
+**AI systems:** retrieval, BGE, FAISS, MCP, PyRIT, garak and model evaluation.  
+**Engineering:** Python, FastAPI, PostgreSQL, Docker, Linux, CI/CD, Git, C/C++ and Bash.
 
-## Education and interests
-
-I study Applied Mathematics and Computer Science at **MIPT** (2025–present). Earlier training includes Yandex Lyceum, Deep Learning School and IOAI team preparation.
-
-Outside ML, I enjoy robotics and 3D printing, alpine skiing, taekwondo, music and visual art.
+I study Applied Mathematics and Computer Science at **MIPT** (2025–present).
 
 ## Contact
 
-For AI engineering, applied research and technical leadership opportunities, email **[mbeliaev2007@gmail.com](mailto:mbeliaev2007@gmail.com)**.
+For applied AI engineering, research engineering and hands-on technical leadership:  
+**[mbeliaev2007@gmail.com](mailto:mbeliaev2007@gmail.com)**
