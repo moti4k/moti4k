@@ -54,6 +54,12 @@ These case studies describe my work. They are separate from the public code belo
 - **NEOAI 2026:** developed ideas and baseline implementations for six main-round tasks.
 - **Bathymetry research:** development grant support at the Vybirai forum in 2024.
 
+## More projects and achievements
+
+[**Extended portfolio: projects, research and competition results →**](work/portfolio.md)
+
+Includes NEOAI baselines, Whisper optimization, wildlife re-identification, molecular-design research, 3D-printer vision controls, public team projects and further mathematics and programming distinctions.
+
 ## Tools and foundations
 
 **Models:** PyTorch, Transformers, LoRA/PEFT, CatBoost, scikit-learn; computer vision and metric learning.  
