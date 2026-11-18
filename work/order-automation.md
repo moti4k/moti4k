@@ -19,13 +19,13 @@ flowchart LR
 ## What I implemented
 
 - Built the workflow end to end, including retrieval and the 1C integration.
-- Used **BGE embeddings** to retrieve relevant context and a locally deployed **DeepSeek model adapted with LoRA** for order interpretation.
+- Used **BGE embeddings followed by cross-encoder reranking** to select relevant context, with a locally deployed **DeepSeek model adapted with LoRA** for order interpretation.
 - Iterated on retriever selection, product matching and prompts using client-provided examples.
 - Evaluated complete orders, including product selection, packaging and quantity, rather than judging only the wording of a response.
 
 ## Deployment and scope
 
-The delivery engagement ran from August to October 2025. By November 2026, the deployed workflow was processing approximately **10,000 orders per day**. This describes the complete workflow's operating volume; it is not a standalone model throughput benchmark or the volume at initial delivery.
+The delivery engagement ran from August to October 2025. By September 2026, the deployed workflow was processing approximately **10,000 orders per day**. This describes the complete workflow's operating volume; it is not a standalone model throughput benchmark or the volume at initial delivery.
 
 ## Public material
 

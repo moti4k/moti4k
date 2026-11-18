@@ -12,7 +12,7 @@ I build systems that connect model outputs to useful actions: structured orders,
 
 **Food Industry Client · Independent AI Engineer · Aug–Oct 2025**
 
-Built an on-premises workflow that turns text, audio and photographs into structured orders in 1C. Combined BGE retrieval with a LoRA-adapted DeepSeek model, working on catalog matching, packaging and quantity interpretation, prompts and integration. By November 2026, the deployed workflow was processing approximately **10,000 orders/day**.
+Built an on-premises workflow that turns text, audio and photographs into structured orders in 1C. Combined BGE retrieval and cross-encoder reranking with a LoRA-adapted DeepSeek model, working on catalog matching, packaging and quantity interpretation, prompts and integration. By September 2026, the deployed workflow was processing approximately **10,000 orders/day**.
 
 [Read the workflow and implementation scope →](work/order-automation.md)
 
