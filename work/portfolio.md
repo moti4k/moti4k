@@ -86,6 +86,30 @@ Developed a hosted media-generation application using FLUX, WAN and the ChatGPT 
 
 Implemented containers, smart pointers, callable wrappers and allocator-aware structures. Coursework also included C/POSIX utilities, mmap and x86-64/AArch64 assembly. These are educational implementations, not a claim of professional kernel development.
 
+### School face-recognition system · Independent client project · 2023
+
+Independently developed a face-recognition system for a school. The public implementation includes data preparation, model training and prediction. [Repository](https://github.com/moti4k/schoolAI).
+
+### Marketing conversion uplift · Independent project · 2021
+
+Developed an early project to predict conversion uplift from different marketing and promotion approaches.
+
+### Multimodal interaction prediction · NTO 2025
+
+Worked on predicting user interactions from historical activity and multimodal content. This complements the separate NTO 2023–2024 implicit-feedback recommendation implementation linked below.
+
+### NEOAI 2025 · Model adaptation experiments
+
+Worked on generation steering, restoration of damaged BERT representations, image-descriptor clustering and cross-language intent classification/slot filling. These were competition solutions, distinct from my later NEOAI task and baseline contributions.
+
+### Robotics · IOAI 2025 team challenge
+
+Worked with reinforcement learning in a physical-robot task involving moving, grasping and placing objects. This team challenge is separate from my individual gold-medal result.
+
+### ML time series and crypto execution · Independent projects · 2025–2026
+
+Built Python-based trading systems with short-horizon features, CatBoost/PyTorch models and time-aware validation. Implemented order submission and cancellation, fee/slippage handling, risk limits and latency measurements.
+
 ## Public implementations
 
 | Project | What is available | Context |
@@ -109,6 +133,14 @@ These repositories are separate from the private client deployments. Linked code
 - **Verchenko Mathematics Olympiad, 2025:** prizewinner.
 - **All-Russian School Olympiad in Informatics:** regional winner in 2023–2025; national-final participant in 2025.
 - **Vybirai AI project accelerator, 2024:** winner, with development-grant support for bathymetry research.
+
+- **All-Russian underwater robotics competition, 2021:** winner.
+- **Further final-stage participation:** All-Russian AI Olympiad, DANO and NTO Artificial Intelligence.
+- **Governor of Primorsky Krai scholarship:** recipient.
+
+## Speaking
+
+**MFM, 2026:** invited by Sber to speak about Gired, my path into AI and practical ways to begin and develop in the field. Shared experience from AI competitions and building projects.
 
 ## Education and interests
 
