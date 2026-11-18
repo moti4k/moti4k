@@ -1,8 +1,8 @@
 # Enterprise agents and evaluation
 
-**Acta · Applied AI engineering and technical leadership**
+**OpenCompany / Acta · Applied AI engineering and technical leadership · Oct 2025–Jan 2026**
 
-I worked on an enterprise-agent system and voice assistants, and led four developers across agent implementation, MCP integrations, token accounting and the product's web/backend work.
+I worked on an enterprise-agent system and voice assistants, and led three AI developers while coordinating a web/backend engineer. The work covered agent implementation, MCP integrations, token accounting and product integration.
 
 ## Engineering and leadership
 

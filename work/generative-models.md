@@ -2,6 +2,8 @@
 
 ## Flux and LTX at XLabs
 
+**Jun 2024–Aug 2025**
+
 I worked on **Flux LoRA fine-tuning** and **LTX LoRA adaptation for video generation**, as part of the team's generative-media work, including JGGL/Jiggle.
 
 The work involved model adaptation and bringing generated output into an application workflow. I can discuss the approaches and implementation trade-offs without disclosing private training data or internal material.

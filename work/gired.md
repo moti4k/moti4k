@@ -1,6 +1,6 @@
 # Gired: retrieval and recommendations
 
-**Ongoing product development · AI engineering**
+**Founder · Product development and AI engineering · Feb 2026–present**
 
 Gired matches people with work based on the content of their experience: the tasks they performed, their projects and the evidence behind those claims.
 

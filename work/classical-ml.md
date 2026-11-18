@@ -2,6 +2,8 @@
 
 ## Property valuation at QLAN
 
+**Jan 2023–Feb 2024**
+
 I worked on tabular ML for identifying undervalued apartments in Dubai. The work included deep feature engineering, feature selection and comparisons between gradient boosting, linear models and other tabular/graph-based approaches.
 
 The purpose was to turn listing data into a useful property-screening workflow, connecting model predictions with real purchase and resale decisions. The underlying client data and implementation are private.
